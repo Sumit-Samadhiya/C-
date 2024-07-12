@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int a,t,b;
-	cout<<"Enter Two number a and b  ";
+	cout<<"Enter Two number a and b   ";
 	cin>>a>>b;
 	a=a^b;
     b=a^b;

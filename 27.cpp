@@ -26,7 +26,7 @@ int main()
 		cout<<"in fibonacci Series";
 	}
 	else
-		cout<<"not in fibonacci Series";
+		cout<<"not in the fibonacci Series";
 	
 	
 }

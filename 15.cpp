@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
  int a,b;
-	cout<<"enter a year : ";
+	cout<<"enter a year  : ";
 	cin>>a;
 	
 	if(a%100==0)

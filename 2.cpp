@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int a,result;
-	cout<<"Enter A number ";
+	cout<<"Enter A number: ";
 	cin>>a;
 	result = a/10;
 	cout<<"Result = "<<result;

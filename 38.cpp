@@ -10,9 +10,9 @@ using namespace std;
 int main()
 {
     int i,j;
-    for(i=0;i<=3;i++)
+    for(i=1;i<=5;i++)
     {
-        for(j=i+1;j>=1;j--)
+        for(j=i;j>=1;j--)
         {
             cout<<j;
         }

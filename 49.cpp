@@ -3,8 +3,6 @@
 #include <iostream>
 using namespace std;
 
-
-
 long fact(int n) {
     int fact = 1;
     for (int i = 1; i <= n; ++i) {
@@ -19,6 +17,7 @@ long combination(int n,int r)
     return fact(n) / (fact(r) * fact(n-r));
 }
 
+
 int main() {
     int n ,r;
     cout<<"Enter n and r : ";
@@ -26,3 +25,5 @@ int main() {
 
     cout<<combination(n,r);
 }
+
+

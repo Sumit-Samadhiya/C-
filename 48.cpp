@@ -1,24 +1,21 @@
-// write function N odd number ;
+//write function for factorial of a number ;
 
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int odd(int n)
-{
-    for(int i=1;i<n*2;++i)
-       {
-        if(i&1)
-            cout<<i;
-       }
+int factorial(int n) {
+    int fact = 1;
+    for (int i = 1; i <= n; ++i) {
+        fact *= i;
+    }
+    return fact;
 }
 
-int main()
-{
-    int n;
-    cout<<"Enter a number";
-    cin>>n;
-
-    odd(n);
-    
-   
+int main() {
+    int num;
+    cout << "Enter a number to find its factorial: ";
+    cin >> num;
+    int result = factorial(num);
+    cout << "Factorial of " << num << " is " << result << endl;
+    return 0;
 }

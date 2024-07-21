@@ -11,7 +11,7 @@ int Fibonacci(int a, int b, int n)
         a=b;
         b=c;
         cout<<b;
-    }
+    } 
 }
 
 int main()

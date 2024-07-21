@@ -14,7 +14,6 @@ bool PrimeNumber(int n)
 		}
 	}
     return true;
-   
 }
 
 int nextPrime(int n)

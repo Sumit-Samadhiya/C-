@@ -18,6 +18,6 @@ int main()
     {
         sum=sum+a[i];
     }
-    cout<<"The Average is "<<sum/10;
+    cout<<"The Average is = "<<sum/10;
     
 }

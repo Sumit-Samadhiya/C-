@@ -18,5 +18,5 @@ int main()
     {
         sum=sum+a[i];
     }
-    cout<<"Sum = "<<sum;
+    cout<<"Sum of Numbers = "<<sum;
 }

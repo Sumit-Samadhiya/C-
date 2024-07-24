@@ -21,7 +21,7 @@ int main()
         else
             odd=odd+a[i];
     }
-    cout<<"The Sum of Even is = "<<Even;
-    cout<<"The Sum of Odd is = "<<odd;
+    cout<<"The Sum of Even is =  "<<Even;
+    cout<<"The Sum of Odd is =  "<<odd;
     
 }

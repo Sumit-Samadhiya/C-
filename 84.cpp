@@ -31,17 +31,7 @@ int Duplicate(int a[],int n)
 }
 
 
-int printArray(int a[],int n)
-{
-    int i;
-    
-    cout<<"Swapped Array : ";
-    for(i=0;i<n;i++)
-    {
-        cout<<a[i]<<" ";
-    }
 
-}
 
 int main()
 {

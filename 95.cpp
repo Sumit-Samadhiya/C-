@@ -22,10 +22,6 @@ int main()
     cout<<"Enter a String : ";
     cin.getline(a,100);
 
-   
-
     space(a,c);
-    
-    
     
 }   

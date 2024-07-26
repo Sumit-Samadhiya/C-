@@ -26,7 +26,7 @@ int main()
     cin.getline(a,100);
 
     toUpperCase(a);
-    cout<<"UpperCase = "<<a;
+    cout<<"UpperCase  = "<<a;
     
   
     

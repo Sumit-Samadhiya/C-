@@ -1,2 +1,1 @@
-toUpperCase(a);
-    // cout<<"UpperCase = "<<a;
+Write a program to given string into uppercase.

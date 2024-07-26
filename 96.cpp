@@ -27,7 +27,5 @@ int main()
     toUpperCase(a);
     cout<<"UpperCase  = "<<a;
     
-  
-    
     
 }   

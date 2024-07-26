@@ -10,7 +10,6 @@ int pailndrome(char a[100])
     while(a[i] != '\0')
     {
         i++;
-
     }
     i--;
 

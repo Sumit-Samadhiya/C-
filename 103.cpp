@@ -17,7 +17,6 @@ void toUpperCase(char str[]) {
     }
 
 }
-
 bool isCom(char a[100], char b[100])
 {
 

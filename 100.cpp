@@ -6,7 +6,7 @@ using namespace std;
 int pailndrome(char a[100])
 {
     int i=0,j=0;
-    
+
     while(a[i] != '\0')
     {
         i++;

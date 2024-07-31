@@ -16,7 +16,14 @@ int WordCount(char a[100])
     {
         if(a[i] == ' ')
         {
-            j++;
+            if(a[i+1]== ' ')
+            {
+                i++;
+                continue;
+            }
+            else{
+                j++;
+            }
         }
         i++;
     }

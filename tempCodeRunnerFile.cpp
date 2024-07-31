@@ -1,1 +1,8 @@
-Write a program to given string into uppercase.
+
+    }
+   cout<<j+1;
+    
+}
+
+int main()
+{

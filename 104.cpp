@@ -1,4 +1,4 @@
-
+// trim
 
 #include<iostream>
 #include<string.h>

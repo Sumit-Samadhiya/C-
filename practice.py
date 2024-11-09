@@ -41,7 +41,8 @@
 # print(a,b)
 
 
-# # Reverse String
+
+#  5.  Reverse String
 # def reverse(a):
 #     return a[::-1]
 
@@ -51,4 +52,56 @@
 
 
 
+# 6. Fiboonacci Print
+# def fibonacci(r):
+#     a=-1
+#     b=1
+
+#     for i in range(r):
+#         c=a+b
+#         print(c)
+#         a=b
+#         b=c
+# fibonacci(5)
+
+# # Palindrome Check String.
+
+# def Fun(a):
+#     return a == a[::-1]
+
+# a=input('Enter a String : ')
+# if(Fun(a)):
+#     print('Palindrome')
+# else:
+#     print('not a palindrome')
+
+
+# Count Vowels and Consonants
+
+# def countt(a):
+#     v='aeiouAEIOU'
+#     count=0
+#     const=0
+#     for c in a:
+#         if c in v:
+#             count=count+1
+#         else:
+#             const=const+1
+#     print('Vowel= ',count)
+#     print('constant= ',const)
+
+# countt('Sumit')
+
+
+# reverse a number
+
+# def reverse(a):
+#     r=0
+#     while(a):
+#         r=r+a%10
+#         a=a//10
+#         r=r*10
+#     r=r//10
+#     print(r)
+# reverse(124)
 

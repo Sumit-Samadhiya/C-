@@ -12,3 +12,19 @@
 # else:
 #     print(c)
 
+#2. Write a Program to check whether a number is prime or not.
+
+# def prime(a):
+#     for i in range(2,a):
+#         if(a%i==0):
+#             return False
+        
+#     return True
+    
+
+# a= int(input("Enter a Number :- "))
+
+# if(prime(a)):
+#     print("Prime Number")
+# else:
+#     print("Not a Prime no.")

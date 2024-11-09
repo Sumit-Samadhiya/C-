@@ -113,7 +113,5 @@
 #         print('palindrom')
 #     else:
 #         print('not')
-
-
 # reverse('13131')
     

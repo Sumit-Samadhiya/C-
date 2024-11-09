@@ -4,6 +4,9 @@
 # b=int(input("Enter b :- "))
 # c=int(input("Enter c :- "))
 
+# s=max(a,b,c)
+# print(s)
+
 # if(a>b):
 #     if(a>c):
 #         print(a)

@@ -41,12 +41,14 @@
 # print(a,b)
 
 
-# Reverse String
-def reverse(a):
-    return a[::-1]
+# # Reverse String
+# def reverse(a):
+#     return a[::-1]
 
-a=input('')
-b=reverse(a)
-print(b)
+# a=input('')
+# b=reverse(a)
+# print(b)
+
+
 
 

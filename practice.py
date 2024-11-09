@@ -28,3 +28,14 @@
 #     print("Prime Number")
 # else:
 #     print("Not a Prime no.")
+
+
+# 4. Write a Program in C to Swap the values of two variables without using any extra variable.
+
+a=int(input("Enter number : ")) #10
+b=int(input("Enter number ")) #4
+a = a + b
+b = a - b
+a = a - b
+
+print(a,b)

@@ -105,3 +105,15 @@
 #     print(r)
 # reverse(124)
 
+# def reverse(a):
+#     r = a[::-1]
+#     s= int(r)
+#     sq= int(a)
+#     if(sq==s):
+#         print('palindrom')
+#     else:
+#         print('not')
+
+
+# reverse('13131')
+    

@@ -231,3 +231,14 @@
 #     if is_prime(i):
 #         print(i)
     
+
+def fibo(n):
+    f=[0,1]
+    for i in range(2,n):  
+     r=f[i-1]+f[i-2]
+     f.append(r)
+     
+    return f
+
+print(fibo(5))
+

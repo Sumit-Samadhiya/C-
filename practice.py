@@ -332,3 +332,8 @@
 # Input: "Python"
 # Output: "nohtyP"
 # The function should return the reversed string.
+
+# class Solution:
+#     def reverse_string(self, s: str) -> str:
+#         # your code here
+#        return s[::-1]

@@ -232,13 +232,21 @@
 #         print(i)
     
 
-def fibo(n):
-    f=[0,1]
-    for i in range(2,n):  
-     r=f[i-1]+f[i-2]
-     f.append(r)
-     
-    return f
+# def fibo(n):
+#     f=[0,1]
+#     for i in range(2,n):  
+#      r=f[i-1]+f[i-2]
+#      f.append(r)  
+#     return f
+# print(fibo(5))
 
-print(fibo(5))
+
+# s=[1,2,3,4]
+# print(s[::-1])
+
+# s="Sumit samadhiya"
+# r= len(s.split())
+# print(r)
+
+
 

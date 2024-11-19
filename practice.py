@@ -267,4 +267,25 @@
 # print(n)
 
 
+# Write a Python function that generates the Fibonacci sequence up to a given number of terms. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, starting from 0 and 1. That is: 0, 1, 1, 2, 3, 5, 8, 13, 21, .... The function should return a list containing the sequence up to the specified number of terms.
+# If the input is n = 0, the function should return an empty list [].
+# If the input is n = 1, the function should return [0].
+# If the input is n = 2, the function should return [0, 1].
+# Example 1:
+# Input: 5
+# Output: [0, 1, 1, 2, 3]
+# Example 2:
+# Input: 8
+# Output: [0, 1, 1, 2, 3, 5, 8, 13]
+
+class Solution:
+    def fibonacci(self, n: int) -> List[int]:
+        # your code here
+        l=[0,1]
+        for i in range(2,n):
+             x= l[i-1]+l[i-2]
+             l.append(x)
+        
+        return l
+
 

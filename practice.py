@@ -289,11 +289,12 @@
 #         return l
 
 
-Write a Python function that calculates the factorial of a given number. The factorial of a non-negative integer n is the product of all positive integers less than or equal to n. It is denoted as n!. For example, the factorial of 5 (5!) is 5 * 4 * 3 * 2 * 1 = 120. The factorial of 0 is defined as 1.
-Example 1:
-Input: 5
-Output: 120
-Example 2:
-Input: 3
-Output: 6
-The function should return the factorial of the given number.
+# Write a Python function that calculates the factorial of a given number. The factorial of a non-negative integer n is the product of all positive integers less than or equal to n. It is denoted as n!. For example, the factorial of 5 (5!) is 5 * 4 * 3 * 2 * 1 = 120. The factorial of 0 is defined as 1.
+# Example 1:
+# Input: 5
+# Output: 120
+# Example 2:
+# Input: 3
+# Output: 6
+# The function should return the factorial of the given number.
+

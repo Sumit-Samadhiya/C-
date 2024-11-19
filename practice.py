@@ -314,3 +314,11 @@
 # Input: 10
 # Output: False
 # The function should return True if the input number is prime and False otherwise.
+
+class Solution:
+    def is_prime(self, n: int) -> bool:
+        # your code here
+        for i in range(2,n):
+            if(n%i==0):
+                return False
+        return True

@@ -261,10 +261,10 @@
 # print(list(n))
 
 #Reduce
-from functools import reduce 
-l=[1,2,3,4,5]
-n=reduce(lambda x,y: x*y,l)
-print(n)
+# from functools import reduce 
+# l=[1,2,3,4,5]
+# n=reduce(lambda x,y: x*y,l)
+# print(n)
 
 
 

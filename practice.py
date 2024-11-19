@@ -304,3 +304,13 @@
 #         if n == 0 or n == 1:
 #             return 1
 #         return n * self.factorial(n-1)
+
+
+Write a Python function that checks whether a given number is prime. A prime number is a positive integer greater than 1 that is only divisible by 1 and itself. The function should return True if the input number is prime and False otherwise.
+Example 1:
+Input: 5
+Output: True
+Example 2:
+Input: 10
+Output: False
+The function should return True if the input number is prime and False otherwise.

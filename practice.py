@@ -337,3 +337,19 @@
 #     def reverse_string(self, s: str) -> str:
 #         # your code here
 #        return s[::-1]
+
+
+# Write a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward, ignoring non alphanumeric characters, punctuation, and capitalization.
+# Example 1:
+# Input: "racecar" 
+# Output: True
+# Example 2:
+# Input: "techprep" 
+# Output: False
+# The function should return True if the input string is a palindrome (reads the same forward and backward), and False otherwise
+
+# class Solution:
+#     def is_palindrome(self, s: str) -> bool:
+#         # your code here
+      
+#         return s==s[::-1]

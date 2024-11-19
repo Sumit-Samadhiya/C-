@@ -278,14 +278,14 @@
 # Input: 8
 # Output: [0, 1, 1, 2, 3, 5, 8, 13]
 
-class Solution:
-    def fibonacci(self, n: int) -> List[int]:
-        # your code here
-        l=[0,1]
-        for i in range(2,n):
-             x= l[i-1]+l[i-2]
-             l.append(x)
+# class Solution:
+#     def fibonacci(self, n: int) -> List[int]:
+#         # your code here
+#         l=[0,1]
+#         for i in range(2,n):
+#              x= l[i-1]+l[i-2]
+#              l.append(x)
         
-        return l
+#         return l
 
 

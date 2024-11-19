@@ -322,3 +322,13 @@
 #             if(n%i==0):
 #                 return False
 #         return True
+
+
+Write a Python function that reverses a given string. The program should take a string as input and return its reverse. Implement the function such that it operates in O(n) time complexity and O(1) space complexity (ignoring the space required to store the result). This means the function should reverse the string in-place if possible, or use the minimum additional space necessary.
+Example 1:
+Input: "hello" 
+Output: "olleh"
+Example 2:
+Input: "Python"
+Output: "nohtyP"
+The function should return the reversed string.

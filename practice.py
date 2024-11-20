@@ -430,10 +430,10 @@
 #             return False
 #     return True
 
-if(isprime(9)):
-    print('prime')
-else:
-    print('not prime')
+# if(isprime(9)):
+#     print('prime')
+# else:
+#     print('not prime')
 
 
 

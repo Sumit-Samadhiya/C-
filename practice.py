@@ -403,3 +403,6 @@
 # print(f"The largest number is {largest_num}")
 
 # Question 4: Write a Python program to reverse a string.
+str=input('Enter ')
+print(str[::-1])
+

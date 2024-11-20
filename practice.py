@@ -367,11 +367,11 @@
 
 
 # # Question 2: Write a Python program to find the factorial of a number.
-# def fun(n):
-#     return n*fun(n-1)
+def fun(n):
+    return n*fun(n-1)
 
-# r=fun(5)
-# print(r)
+r=fun(5)
+print(r)
 
 
 # def factorial(number):

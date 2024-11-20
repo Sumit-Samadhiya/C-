@@ -367,13 +367,13 @@
 
 
 # # Question 2: Write a Python program to find the factorial of a number.
-def fun(n):
-    if n==0 or n==1:
-        return 1
-    else:
-        return n*fun(n-1)
-r=fun(5)
-print(r)
+# def fun(n):
+#     if n==0 or n==1:
+#         return 1
+#     else:
+#         return n*fun(n-1)
+# r=fun(5)
+# print(r)
 
 
 # def factorial(number):

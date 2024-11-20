@@ -408,7 +408,19 @@
 # print(str[::-1])
 
 # Question 5: Write a Python program to count the frequency of each element in a list.
-
+def count_frequency(numbers):
+    f={}
+    for num in numbers:
+        if num in f:
+            f[num] = f[num]+1
+        else:
+            f[num]=1
+    return f
+            
+# Test the function
+nums = [1, 2, 3, 2, 1, 3, 2, 4, 5, 4]
+frequency_count = count_frequency(nums)
+print(frequency_count)
 
 
 

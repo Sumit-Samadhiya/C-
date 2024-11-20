@@ -384,3 +384,8 @@
 # r=factorial(5)
 # print(r)
 
+# Question 3: Write a Python program to find the largest element in a list.
+
+n= [1,2,3,8,5,6]
+r= max(n)
+print(r)

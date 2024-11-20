@@ -354,15 +354,15 @@
       
 #         return s==s[::-1]
 
-# Question 1: Write a Python program to check if a string is a palindrome.
+# # Question 1: Write a Python program to check if a string is a palindrome.
 
-def palindrome(n):
-    return n==n[::-1]
+# def palindrome(n):
+#     return n==n[::-1]
 
-n=input('Enter ')
-if(palindrome(n)):
-    print('palindrome')
-else:
-    print('not palindrome')
+# n=input('Enter ')
+# if(palindrome(n)):
+#     print('palindrome')
+# else:
+#     print('not palindrome')
 
 

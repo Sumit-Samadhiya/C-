@@ -39,3 +39,10 @@
 
 // fetchdata();
 
+// async function fetchdata() {
+//     const result= await fetch('')
+//     const data= result.json()
+//     console.log(data)
+    
+// }
+

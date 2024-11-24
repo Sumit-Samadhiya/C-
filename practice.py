@@ -110,6 +110,7 @@
 #     print(r)
 # reverse(124)
 
+
 # def reverse(a):
 #     r = a[::-1]
 #     s= int(r)
@@ -120,6 +121,7 @@
 #         print('not')
 
 # reverse('13131')
+
     
 # Write a Python program to find the factorial of a number. 
 # def factorial(number):
@@ -434,6 +436,39 @@
 #     print('prime')
 # else:
 #     print('not prime')
+
+# ////////////////////////////////////////////////////////////////////////////////////////////////////////////
+# reverse a string
+# s="Sumit"
+# print(s[::-1])
+# r=''.join(reversed(s))
+# print(r)
+
+# s= "samadhiya sumit"
+# print(' '.join(s.split()[::-1]))
+# print(' '.join(reversed(s.split())))
+
+# let s ="Sumit Samadhiya"
+# let rev= s.split(' ').reverse().join(' ')
+# console.log(rev)
+
+
+
+# Fibonacci
+# def fibo(n):
+   
+#     if n<=0:
+#         return 
+#     f=[0,1]
+#     for i in range(2,n):
+#         f.append(f[i-1]+f[i-2])
+#     print(f)
+
+# fibo(9)
+
+
+
+
 
 
 

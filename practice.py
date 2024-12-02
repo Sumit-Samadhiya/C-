@@ -35,14 +35,13 @@
 #     print("Not a Prime no.")
 
 
-# 4. Write a Program in C to Swap the values of two variables without using any extra variable.
+# 4. Write a Program Swap the values of two variables without using any extra variable.
 
 # a=int(input("Enter number : ")) #10
 # b=int(input("Enter number ")) #4
 # a = a + b
 # b = a - b
 # a = a - b
-
 # print(a,b)
 
 
@@ -209,7 +208,6 @@
 
 
 # n="Sama is cool"
-
 # s=len(n.split(' '))
 # print(s)
 
@@ -448,6 +446,7 @@
 # print(' '.join(s.split()[::-1]))
 # print(' '.join(reversed(s.split())))
 
+
 # let s ="Sumit Samadhiya"
 # let rev= s.split(' ').reverse().join(' ')
 # console.log(rev)
@@ -481,12 +480,12 @@
 #     print(f)
 # fib(9)
 
-# def fibo(n):
-#     if n==0 or n==1:
-#         return 1
-#     else:
-#         return fibo(n-1)+fibo(n-2)
-# print(fibo(9))
+def fibo(n):
+    if n<=2:
+        return n-1
+    else:
+        return fibo(n-1)+fibo(n-2)
+print(fibo(4))
 
 
 

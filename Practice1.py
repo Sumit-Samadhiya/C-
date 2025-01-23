@@ -1,3 +1,4 @@
+# 1... Even-Odd
 # a= int(input('Enter no:- '))
 # if a%2==0:
 #     print('Even')
@@ -12,4 +13,6 @@
 #     else:
 #         print('Odd',i)
 #     i=i+1
+
+
 

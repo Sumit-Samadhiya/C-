@@ -14,5 +14,9 @@
 #         print('Odd',i)
 #     i=i+1
 
+# 3... Unit Digit of a no:
+# a= int(input('Enter no:- '))
+# print(a%10)
+
 
 

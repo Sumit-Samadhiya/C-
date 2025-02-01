@@ -24,3 +24,13 @@
 #     print('Even')
 # else:
 #     print('Odd')
+# ------------------------------------------------------------------------------------------------------------------
+
+# Write a program to count the number of vowels in a string.
+v=['a','e','i','o','u','A','E','I','O','U']
+a=input('Enter :- ')
+c=0
+for e in a:
+    if e in v:
+        c=c+1
+print(c)

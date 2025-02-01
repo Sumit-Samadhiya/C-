@@ -5,5 +5,5 @@
 #     print('Odd')
 
 
-while(1):
-    print('Ram')
+# while(1):
+#     print('Ram')

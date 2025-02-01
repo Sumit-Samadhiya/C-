@@ -13,5 +13,5 @@
 
 # Write a program to find the largest number in a list.
 
-a=[3,5,2,1,6,4]
-print(max(a))
+# a=[3,5,2,1,6,4]
+# print(max(a))

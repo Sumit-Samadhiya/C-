@@ -5,8 +5,9 @@
 
 # Write a function to add two numbers.
 
-def fun(a,b):
-    c=a+b
-    print(c)
+# def fun(a,b):
+#     c=a+b
+#     print(c)
+# fun(a=3,b=5)
+# ---------------------------------------------------------------------------------------------------------------
 
-fun(a=3,b=5)

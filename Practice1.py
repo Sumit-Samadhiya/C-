@@ -61,3 +61,10 @@
 #     print('Prime')
 # else:
 #     print('Not a prime')
+
+
+# s= input('Enter:- ')
+# if(s.isupper()):
+#     print('upper')
+# else:
+#     print('lower')

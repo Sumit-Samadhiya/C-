@@ -22,3 +22,12 @@
 # print(m)
 
 
+# for i in range(1,21):
+#     if(i%2==0):
+#         print(i)
+
+# for j in range(1,21):
+#     if(j%2!=0):
+#         print(j)
+
+i=int(input('Enter'))

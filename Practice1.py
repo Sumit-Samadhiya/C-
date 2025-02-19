@@ -4,9 +4,9 @@
 # else:
 #     print('odd')
 
-# i= int(input('Enter :- '))
-# unit=i%10
-# print(unit)
+i= int(input('Enter :- '))
+unit=i%10
+print(unit)
 
 # i=int(input('enter :-'))
 # if(i>=100 and i<=999):

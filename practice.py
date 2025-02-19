@@ -1,4 +1,4 @@
- # 1. Find the largest number among the three numbers.
+# 1. Find the largest number among the three numbers.
 
 # a=int(input("Enter a :- "))
 # b=int(input("Enter b :- "))
@@ -45,7 +45,6 @@
 # print(a,b)
 
 
-
 #  5.  Reverse String
 # def reverse(a):
 #     return a[::-1]
@@ -80,8 +79,8 @@
 #     print('not a palindrome')
 
 
-# Count Vowels and Consonants
 
+# Count Vowels and Consonants
 # def countt(a):
 #     v='aeiouAEIOU'
 #     count=0
@@ -489,7 +488,8 @@
 
 
 
-
+s= input('Enter ')
+print(s[::-1])
 
 
 

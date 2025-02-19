@@ -45,7 +45,7 @@ fetchdata();
     
 // }
 
-let s = 'Ansh Singh'
-r= s.split(" ").reverse().join(" ")
-console.log(r)
+// let s = 'Ansh Singh'
+// r= s.split(" ").reverse().join(" ")
+// console.log(r)
 

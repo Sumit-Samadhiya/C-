@@ -4,13 +4,21 @@
 # else:
 #     print('odd')
 
-i= int(input('Enter :- '))
-unit=i%10
-print(unit)
+# i= int(input('Enter :- '))
+# unit=i%10
+# print(unit)
 
 # i=int(input('enter :-'))
 # if(i>=100 and i<=999):
 #     print("tree digit no")
 # else:
 #     print('Not a three digit no.')
+
+
+# i=int(input('Enter'))
+# j=int(input('Enter:- '))
+# k=int(input('Number: '))
+# m=max(i,j,k)
+# print(m)
+
 

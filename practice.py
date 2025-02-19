@@ -495,3 +495,16 @@
 # s= input('Enter :- ')
 # r= ' '.join(reversed(s.split()))
 # print(r)
+
+# Fibbonacchi:-
+# def fun(n):
+#     if n==0:
+#         return 0
+#     elif n==1:
+#         return 1
+#     else:
+#         return fun(n-1)+fun(n-2)
+# n=10
+# rev=[fun(i) for i in range(n) ]
+# print(rev)
+

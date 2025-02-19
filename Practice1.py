@@ -70,3 +70,7 @@
 #     print('lower')
 
 
+# code for revese name
+
+i=input('Enter:')
+

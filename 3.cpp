@@ -11,7 +11,6 @@ int main()
 	t=a;
     a=b;
     b=t;
-	
-	
+
 	cout<<"a = "<<a<<" b = " <<b;
 }

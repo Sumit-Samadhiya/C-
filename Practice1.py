@@ -35,11 +35,29 @@
 #     t=e*i
 #     print(t)
 
-def fac(n):
-    if n==0 or n==1:
-        return 1
-    else:
-        return n*fac(n-1)
-n=int(input('Enter '))
-d=fac(n)
-print(d)
+# def fac(n):
+#     if n==0 or n==1:
+#         return 1
+#     else:
+#         return n*fac(n-1)
+# n=int(input('Enter '))
+# d=fac(n)
+# print(d)
+
+# n= int(input('Enter:- '))
+# c=0
+# while(n):
+#     n=n//10
+#     c=c+1
+# print(c)
+
+# def prime(n):
+#     for i in range(2,n):
+#         if(n%i==0):
+#             return False
+#     return True
+# n=int(input('Enter '))
+# if(prime(n)):
+#     print('Prime')
+# else:
+#     print('Not a prime')

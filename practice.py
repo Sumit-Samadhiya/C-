@@ -488,8 +488,10 @@
 
 
 
-s= input('Enter ')
-print(s[::-1])
+# s= input('Enter ')
+# print(s[::-1])
 
 
-
+s= input('Enter :- ')
+r= ' '.join(reversed(s.split()))
+print(r)

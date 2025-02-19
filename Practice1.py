@@ -30,4 +30,7 @@
 #     if(j%2!=0):
 #         print(j)
 
-i=int(input('Enter'))
+# i=int(input('Enter'))
+# for e in range(1,11):
+#     t=e*i
+#     print(t)

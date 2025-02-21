@@ -508,3 +508,4 @@
 # rev=[fun(i) for i in range(n) ]
 # print(rev)
 
+

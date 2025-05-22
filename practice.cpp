@@ -16,4 +16,11 @@ int main()
     // d=a+b+c;
     // cout<<d/3;
 
+
+    
+
 }
+
+// shrt Array
+
+
